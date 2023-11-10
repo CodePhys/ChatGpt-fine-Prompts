@@ -3,7 +3,7 @@ Here are some well-crafted and customizable prompts you can utilize for your Cha
 
 # Literature
 "Compose a [ your custom topic ] about [specific topic], focusing on [the pecific temperature, goal or mood]"
-## Example:
+### Example:
   "Compose a heartfelt poem about the beauty of nature, focusing on the changing seasons and the tranquility of a forest."
 
 This prompt is designed to guide ChatGPT in generating creative and expressive content related to the given theme. You can fine-tune prompts like this to get responses tailored to your desired content or style.
